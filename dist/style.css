@@ -788,19 +788,14 @@ video {
     margin-right: 8rem;
   }
 
-  .lg\:my-10 {
-    margin-top: 2.5rem;
-    margin-bottom: 2.5rem;
+  .lg\:my-14 {
+    margin-top: 3.5rem;
+    margin-bottom: 3.5rem;
   }
 
   .lg\:my-20 {
     margin-top: 5rem;
     margin-bottom: 5rem;
-  }
-
-  .lg\:my-14 {
-    margin-top: 3.5rem;
-    margin-bottom: 3.5rem;
   }
 
   .lg\:ml-0 {
@@ -809,10 +804,6 @@ video {
 
   .lg\:ml-5 {
     margin-left: 1.25rem;
-  }
-
-  .lg\:mr-5 {
-    margin-right: 1.25rem;
   }
 
   .lg\:mt-0 {
